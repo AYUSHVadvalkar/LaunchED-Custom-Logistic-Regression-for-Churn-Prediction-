@@ -1,0 +1,4 @@
+# Dependencies for Streamlit Community Cloud or similar Python deployments.
+streamlit==1.48.0
+tensorflow==2.20.0
+keras==3.15.1
